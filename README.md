@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-https://github.com/cihatcoban/cihatcoban/blob/main/200218.jpg
 
+<img src="[gorsel-link](https://github.com/cihatcoban/cihatcoban/blob/main/200218.jpg)" width="auto">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Machine learning
