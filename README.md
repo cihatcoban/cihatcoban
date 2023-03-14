@@ -2,6 +2,7 @@
 
 
 <img src="https://github.com/cihatcoban/cihatcoban/blob/main/200218.jpg" width="auto">
+<img src="https://github.com/cihatcoban/cihatcoban/blob/main/205658.jpg" width="auto">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Machine learning
