@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Machine learning
-- 🌱 I’m currently learning ... Deep learning
-- 👯 I’m looking to collaborate on ... New AI project
-- 🤔 I’m looking for help with ... New job
-- 💬 Ask me about ... me
-- 📫 How to reach me: ... cihatcoban12@gmail.com
-- 😄 Pronouns: ... a man
-- ⚡ Fun fact: ... chess player
+- 🔭 I’m currently working on Machine learning
+- 🌱 I’m currently learning Deep learning
+- 👯 I’m looking to collaborate on  New AI project
+- 🤔 I’m looking for help with  New job
+- 💬 Ask me about  me
+- 📫 How to reach me: cihatcoban12@gmail.com
+- 😄 Pronouns:a man
+- ⚡ Fun fact:good chess player
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/cihatcoban)](https://github.com/cihatcoban) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
