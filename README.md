@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=[cihatcoban](https://github.com/cihatcoban)&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=[cihatcoban](https://github.com/cihatcoban)&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=[cihatcoban]&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=(https://github.com/cihatcoban)&show_icons=true&theme=radical)
